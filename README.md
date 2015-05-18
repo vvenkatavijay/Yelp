@@ -31,5 +31,5 @@ Time spent: 15 hours
 
 ### Walkthrough
 
-![Video Walkthrough](yelp_gif)
+![Video Walkthrough](yelp_gif.gif)
 
